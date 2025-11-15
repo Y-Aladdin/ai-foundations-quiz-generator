@@ -1,0 +1,5 @@
+{
+  "name": "AI Foundations Quiz Generator",
+  "description": "An educational website that generates multiple-choice quizzes from AI foundations course materials using Gemini. Users can select a course, take a quiz, and receive a score with detailed feedback and justifications for each answer.",
+  "requestFramePermissions": []
+}
